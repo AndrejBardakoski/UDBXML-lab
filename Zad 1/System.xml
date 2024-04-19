@@ -1,0 +1,2423 @@
+<SYSTEM>
+	<ARTISTS>
+		<DJS>
+			<DJ ARTIST_ID="16">
+				<NAME>Kygo</NAME>
+				<COUNTRY>Norway</COUNTRY>
+				<NET_WORTH>25,000,000</NET_WORTH>
+				<YEAR_OF_BIRTH>1991</YEAR_OF_BIRTH>
+				<YEAR_STARTED_PERFORMING>2009</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Deep House</GENRE>
+					<GENRE>Progressive House</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="30">
+						<NAME>Cloud Nine</NAME>
+						<RELEASE_YEAR>2016</RELEASE_YEAR>
+						<PRICE>$11.99</PRICE>
+						<CDS>
+							<CD CD_ID="67">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="75">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</DJ>
+			<DJ ARTIST_ID="17">
+				<NAME>David Guetta</NAME>
+				<COUNTRY>France</COUNTRY>
+				<NET_WORTH>75,000,000</NET_WORTH>
+				<YEAR_OF_BIRTH>1967</YEAR_OF_BIRTH>
+				<YEAR_STARTED_PERFORMING>1980</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Deep House</GENRE>
+					<GENRE>Progressive House</GENRE>
+					<GENRE>Electronic</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="31">
+						<NAME>Nothing but the Beat</NAME>
+
+						<PRICE>$7.00</PRICE>
+						<CDS>
+							<CD CD_ID="68">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="76">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="32">
+						<NAME>One love</NAME>
+						<RELEASE_YEAR>2009</RELEASE_YEAR>
+						<PRICE>$12.00</PRICE>
+						<CDS>
+							<CD CD_ID="69">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="70">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>functional</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</DJ>
+			<DJ ARTIST_ID="18">
+				<NAME>Robin Schulz</NAME>
+				<COUNTRY>France</COUNTRY>
+
+				<YEAR_OF_BIRTH>1987</YEAR_OF_BIRTH>
+				<YEAR_STARTED_PERFORMING>2013</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Deep House</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="33">
+						<NAME>Sugar</NAME>
+						<RELEASE_YEAR>2015</RELEASE_YEAR>
+						<PRICE>$15.00</PRICE>
+						<CDS>
+							<CD CD_ID="71">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="72">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="34">
+						<NAME>Prayer</NAME>
+						<RELEASE_YEAR>2014</RELEASE_YEAR>
+						<PRICE>$17.00</PRICE>
+						<CDS>
+							<CD CD_ID="73">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="77">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</DJ>
+			<DJ ARTIST_ID="19">
+				<NAME>Steve Aoki</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<NET_WORTH>75,000,000</NET_WORTH>
+
+				<YEAR_STARTED_PERFORMING>1996</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Electronic</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="35">
+						<NAME>Wonderland</NAME>
+						<RELEASE_YEAR>2012</RELEASE_YEAR>
+						<PRICE>$20.00</PRICE>
+						<CDS>
+							<CD CD_ID="74">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="78">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</DJ>
+		</DJS>
+		<GROUPS>
+			<GROUP ARTIST_ID="1">
+				<NAME>Metallica</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1981</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>9</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Metal</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="1">
+						<NAME>Master Of Pupets</NAME>
+						<RELEASE_YEAR>1986</RELEASE_YEAR>
+						<PRICE>$10.00</PRICE>
+						<CDS>
+							<CD CD_ID="1">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>functional</STATE>
+							</CD>
+							<CD CD_ID="2">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="3">
+								<OCCUPIED>free</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="2">
+						<NAME>Metallica</NAME>
+						<RELEASE_YEAR>1991</RELEASE_YEAR>
+						<PRICE>$12.99</PRICE>
+						<CDS>
+							<CD CD_ID="4">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="5">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="6">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+							<CD CD_ID="7">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="2">
+				<NAME>Disturbed</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1994</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>6</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Metal</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="3">
+						<NAME>Believe</NAME>
+						<RELEASE_YEAR>2002</RELEASE_YEAR>
+						<PRICE>$8.00</PRICE>
+						<CDS>
+							<CD CD_ID="8">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="9">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="4">
+						<NAME>Evolution</NAME>
+						<RELEASE_YEAR>2018</RELEASE_YEAR>
+						<PRICE>$15.00</PRICE>
+						<CDS>
+							<CD CD_ID="10">
+								<OCCUPIED>free</OCCUPIED>
+								<STATE>functional</STATE>
+							</CD>
+							<CD CD_ID="11">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>slightly damaged</STATE>
+							</CD>
+							<CD CD_ID="12">
+								<OCCUPIED>free</OCCUPIED>
+								<STATE>damaged</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="5">
+						<NAME>Immortalized</NAME>
+						<RELEASE_YEAR>2015</RELEASE_YEAR>
+						<PRICE>$16.00</PRICE>
+						<CDS>
+							<CD CD_ID="13">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="14">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="15">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="6">
+						<NAME>Indestructible</NAME>
+						<RELEASE_YEAR>2008</RELEASE_YEAR>
+						<PRICE>$14.00</PRICE>
+						<CDS>
+							<CD CD_ID="16">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+							<CD CD_ID="17">
+								<OCCUPIED>free</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+							<CD CD_ID="18">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>functional</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="3">
+				<NAME>The Backstreet Boys</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1993</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>10</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Pop</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="7">
+						<NAME>Millennium</NAME>
+						<RELEASE_YEAR>1999</RELEASE_YEAR>
+						<PRICE>$9.00</PRICE>
+						<CDS>
+							<CD CD_ID="19">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+							<CD CD_ID="20">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+							<CD CD_ID="21">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="4">
+				<NAME>Iron Maiden</NAME>
+				<COUNTRY>UK</COUNTRY>
+				<YEAR_FORMED>1975</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>17</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Metal</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="8">
+						<NAME>Fear of the Dark</NAME>
+						<RELEASE_YEAR>1992</RELEASE_YEAR>
+						<PRICE>$9.99</PRICE>
+						<CDS>
+							<CD CD_ID="22">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="23">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="9">
+						<NAME>Peace of Mind</NAME>
+
+						<PRICE>$5.00</PRICE>
+						<CDS>
+							<CD CD_ID="24">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="25">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>functional</STATE>
+							</CD>
+							<CD CD_ID="26">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="27">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>functional</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="5">
+				<NAME>Placebo</NAME>
+				<COUNTRY>UK</COUNTRY>
+				<YEAR_FORMED>1994</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>3</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Alternative Rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="10">
+						<NAME>Sleeping with Ghosts</NAME>
+						<RELEASE_YEAR>2003</RELEASE_YEAR>
+						<PRICE>$7.00</PRICE>
+						<CDS>
+							<CD CD_ID="28">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+							<CD CD_ID="29">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="6">
+				<NAME>Coldplay</NAME>
+				<COUNTRY>UK</COUNTRY>
+				<YEAR_FORMED>1996</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>5</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Pop</GENRE>
+					<GENRE>Alternative Rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="11">
+						<NAME>Viva la Vida or Death and all his Friends</NAME>
+						<RELEASE_YEAR>2008</RELEASE_YEAR>
+						<PRICE>$8.99</PRICE>
+						<CDS>
+							<CD CD_ID="30">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="31">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="12">
+						<NAME>A Head Full of Dreams</NAME>
+						<RELEASE_YEAR>2015</RELEASE_YEAR>
+						<PRICE>$16.50</PRICE>
+						<CDS>
+							<CD CD_ID="32">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="33">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="34">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+							<CD CD_ID="35">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="7">
+				<NAME>Blink 182</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1992</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>12</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Rock</GENRE>
+					<GENRE>Pop Punk</GENRE>
+					<GENRE>Punk Rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="13">
+						<NAME>Enema of the State</NAME>
+						<RELEASE_YEAR>1999</RELEASE_YEAR>
+						<PRICE>$5.99</PRICE>
+						<CDS>
+							<CD CD_ID="36">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="37">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="38">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="39">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="14">
+						<NAME>Blink-182</NAME>
+						<RELEASE_YEAR>2003</RELEASE_YEAR>
+						<PRICE>$17.00</PRICE>
+						<CDS>
+							<CD CD_ID="40">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="41">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="15">
+						<NAME>Nine</NAME>
+						<RELEASE_YEAR>2019</RELEASE_YEAR>
+						<PRICE>$10.00</PRICE>
+						<CDS>
+							<CD CD_ID="42">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="8">
+				<NAME>The Offspring</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1984</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>7</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Pop Punk</GENRE>
+					<GENRE>Punk Rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="16">
+						<NAME>Smash</NAME>
+						<RELEASE_YEAR>1994</RELEASE_YEAR>
+						<PRICE>$6.00</PRICE>
+						<CDS>
+							<CD CD_ID="43">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+							<CD CD_ID="44">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="9">
+				<NAME>Simple Plan</NAME>
+				<COUNTRY>Canada</COUNTRY>
+				<YEAR_FORMED>1999</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>5</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Pop Punk</GENRE>
+					<GENRE>Punk Rock</GENRE>
+					<GENRE>Power Pop</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="17">
+						<NAME>No Pads, No Helmets...</NAME>
+						<RELEASE_YEAR>2002</RELEASE_YEAR>
+						<PRICE>$18.00</PRICE>
+						<CDS>
+							<CD CD_ID="45">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="46">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="47">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="10">
+				<NAME>Bowling For Soup</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1994</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>5</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Pop Punk</GENRE>
+					<GENRE>Punk Rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="18">
+						<NAME>A Hangover You Don&apos;t Deserve</NAME>
+						<RELEASE_YEAR>2004</RELEASE_YEAR>
+						<PRICE>$15.00</PRICE>
+						<CDS>
+							<CD CD_ID="48">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>slightly damaged</STATE>
+							</CD>
+							<CD CD_ID="49">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>slightly damaged</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="19">
+						<NAME>The Great Burrito Extortion Case</NAME>
+						<RELEASE_YEAR>2006</RELEASE_YEAR>
+						<PRICE>$14.00</PRICE>
+						<CDS>
+							<CD CD_ID="50">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="51">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="11">
+				<NAME>Linkin Park</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1996</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>9</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Alternative Rock</GENRE>
+					<GENRE>Alternative Metal</GENRE>
+					<GENRE>Rap rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="20">
+						<NAME>Meteora</NAME>
+						<RELEASE_YEAR>2003</RELEASE_YEAR>
+						<PRICE>$8.00</PRICE>
+						<CDS>
+							<CD CD_ID="52">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+							<CD CD_ID="53">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>1</STATE>
+							</CD>
+							<CD CD_ID="54">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="21">
+						<NAME>One More Light</NAME>
+						<RELEASE_YEAR>2017</RELEASE_YEAR>
+						<PRICE>$14.99</PRICE>
+						<CDS>
+							<CD CD_ID="55">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="56">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="22">
+						<NAME>Hybrid Theory</NAME>
+						<RELEASE_YEAR>2000</RELEASE_YEAR>
+						<PRICE>$13.00</PRICE>
+						<CDS>
+							<CD CD_ID="57">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+			<GROUP ARTIST_ID="12">
+				<NAME>Aerosmith</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_FORMED>1970</YEAR_FORMED>
+				<NUMBER_OF_MEMBERS>10</NUMBER_OF_MEMBERS>
+				<GENRES>
+					<GENRE>Hard Rock</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="23">
+						<NAME>Aerosmith</NAME>
+						<RELEASE_YEAR>1975</RELEASE_YEAR>
+						<PRICE>$10.00</PRICE>
+						<CDS>
+							<CD CD_ID="58">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="59">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</GROUP>
+		</GROUPS>
+		<SINGERS>
+			<SINGER ARTIST_ID="13">
+				<NAME>Eminem</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_OF_BIRTH>1972</YEAR_OF_BIRTH>
+				<YEAR_STARTED_PERFORMING>1988</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Hip Hop</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="24">
+						<NAME>The Slim Shady LP</NAME>
+						<RELEASE_YEAR>1999</RELEASE_YEAR>
+						<PRICE>$7.00</PRICE>
+						<CDS>
+							<CD CD_ID="60">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+							<CD CD_ID="61">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="25">
+						<NAME>The Eminem Show</NAME>
+						<RELEASE_YEAR>2002</RELEASE_YEAR>
+						<PRICE>$9.99</PRICE>
+						<CDS>
+							<CD CD_ID="62">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</SINGER>
+			<SINGER ARTIST_ID="14">
+				<NAME>2Pac</NAME>
+				<COUNTRY>USA</COUNTRY>
+				<YEAR_OF_BIRTH>1971</YEAR_OF_BIRTH>
+				<YEAR_STARTED_PERFORMING>1987</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Hip Hop</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="26">
+						<NAME>All Eyez on Me</NAME>
+						<RELEASE_YEAR>1996</RELEASE_YEAR>
+						<PRICE>$7.00</PRICE>
+						<CDS>
+							<CD CD_ID="63">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>2</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+					<ALBUM ALBUM_ID="27">
+						<NAME>Better Dayz</NAME>
+						<RELEASE_YEAR>2002</RELEASE_YEAR>
+						<PRICE>$6.00</PRICE>
+						<CDS>
+							<CD CD_ID="64">
+								<OCCUPIED>1</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</SINGER>
+			<SINGER ARTIST_ID="15">
+				<NAME>Ceca Raznatovic</NAME>
+				<COUNTRY>Serbia</COUNTRY>
+
+				<YEAR_STARTED_PERFORMING>1988</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Turbo-folk</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="28">
+						<NAME>Poziv</NAME>
+						<RELEASE_YEAR>2013</RELEASE_YEAR>
+						<PRICE>$2.00</PRICE>
+						<CDS>
+							<CD CD_ID="65">
+								<OCCUPIED>0</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</SINGER>
+			<SINGER ARTIST_ID="20">
+				<NAME>Dua Lipa</NAME>
+				<COUNTRY>UK</COUNTRY>
+
+				<YEAR_STARTED_PERFORMING>2015</YEAR_STARTED_PERFORMING>
+				<GENRES>
+					<GENRE>Pop</GENRE>
+				</GENRES>
+				<ALBUMS>
+					<ALBUM ALBUM_ID="29">
+						<NAME>Be the One</NAME>
+						<RELEASE_YEAR>2016</RELEASE_YEAR>
+						<PRICE>$22.00</PRICE>
+						<CDS>
+							<CD CD_ID="66">
+								<OCCUPIED>occupied</OCCUPIED>
+								<STATE>0</STATE>
+							</CD>
+						</CDS>
+					</ALBUM>
+				</ALBUMS>
+			</SINGER>
+		</SINGERS>
+
+	</ARTISTS>
+
+	<CLIENTS>
+		<CLIENT CLIENT_ID="1">
+
+			<NAME>Stephen</NAME>
+			<SURNAME>Sims</SURNAME>
+			<ADDRESS>Hollywood St.75</ADDRESS>
+			<EMAIL>stephen.sims@example.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>754-1234</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="2" CD_ID="2">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/21/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="6" CD_ID="6">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="13" CD_ID="13">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="26" CD_ID="26">
+					<FROM_DATE>01/16/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="27" CD_ID="27">
+					<FROM_DATE>01/16/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="41" CD_ID="41">
+					<FROM_DATE>01/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="46" CD_ID="46">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="71" CD_ID="71">
+					<FROM_DATE>01/17/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/29/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="117" CD_ID="39">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="128" CD_ID="50">
+					<FROM_DATE>02/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="157" CD_ID="31">
+					<FROM_DATE>03/01/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/10/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="164" CD_ID="50">
+					<FROM_DATE>03/05/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/14/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="189" CD_ID="27">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="194" CD_ID="35">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="211" CD_ID="55">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="2">
+			<BASIC_INFO>
+				<NAME>Barney</NAME>
+				<SURNAME>Stinson</SURNAME>
+				<ADDRESS>Some St.75</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>barney.stinson@example.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>755-1111</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="15" CD_ID="15">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="16" CD_ID="16">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="43" CD_ID="43">
+					<FROM_DATE>01/14/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="80" CD_ID="2">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/18/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="172" CD_ID="21">
+					<FROM_DATE>04/03/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/14/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="3">
+			<BASIC_INFO>
+				<NAME>Walter</NAME>
+				<SURNAME>White</SURNAME>
+				<ADDRESS>Other St.55</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>walter.white@example.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="18" CD_ID="18">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="109" CD_ID="31">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="210" CD_ID="54">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="4">
+
+			<NAME>Ned</NAME>
+			<SURNAME>Stark</SURNAME>
+			<ADDRESS>Second St.3</ADDRESS>
+			<EMAIL>ned.stark@starks.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="21" CD_ID="21">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="25" CD_ID="25">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/26/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="37" CD_ID="37">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="65" CD_ID="65">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="112" CD_ID="34">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="133" CD_ID="55">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="163" CD_ID="37">
+					<FROM_DATE>03/02/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/12/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="5">
+
+			<NAME>John</NAME>
+			<SURNAME>Snow</SURNAME>
+			<ADDRESS>Third St.2</ADDRESS>
+			<EMAIL>john.snow@almoststark.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>754-1112</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="44" CD_ID="44">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="152" CD_ID="74">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="214" CD_ID="58">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="216" CD_ID="60">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="220" CD_ID="69">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="6">
+			<BASIC_INFO>
+				<NAME>Ross</NAME>
+				<SURNAME>Geller</SURNAME>
+				<ADDRESS>Fourth St.5</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>ross.geller@friends.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>755-1113</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="22" CD_ID="22">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="24" CD_ID="24">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="92" CD_ID="14">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="141" CD_ID="63">
+					<FROM_DATE>02/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="142" CD_ID="64">
+					<FROM_DATE>02/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/26/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="183" CD_ID="11">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="190" CD_ID="29">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="219" CD_ID="68">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="7">
+			<BASIC_INFO>
+				<NAME>Thomas</NAME>
+				<SURNAME>Shelby</SURNAME>
+				<ADDRESS>Gypsy St.2</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>tommy.shelby@peaky.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>755-2222</PHONE_NUMBER>
+				<PHONE_NUMBER>755-2223</PHONE_NUMBER>
+				<PHONE_NUMBER>755-1111</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="40" CD_ID="40">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="59" CD_ID="59">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="78" CD_ID="78">
+					<FROM_DATE>01/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/30/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="93" CD_ID="15">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="95" CD_ID="17">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="96" CD_ID="18">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="100" CD_ID="22">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="103" CD_ID="25">
+					<FROM_DATE>02/05/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="122" CD_ID="44">
+					<FROM_DATE>02/11/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="8">
+
+			<NAME>Robb</NAME>
+			<SURNAME>Stark</SURNAME>
+			<ADDRESS>Unnamed St.2</ADDRESS>
+			<EMAIL>robb-stark@starks.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="7" CD_ID="7">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="30" CD_ID="30">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="49" CD_ID="49">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="106" CD_ID="28">
+					<FROM_DATE>02/06/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="193" CD_ID="33">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="206" CD_ID="49">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="9">
+
+			<NAME>Joey</NAME>
+			<SURNAME>Tribbiani</SURNAME>
+			<ADDRESS>Famous St.1</ADDRESS>
+			<EMAIL>joey.tribbiani@friends.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="51" CD_ID="51">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="64" CD_ID="64">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="139" CD_ID="61">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="10">
+			<BASIC_INFO>
+				<NAME>Lucas</NAME>
+				<SURNAME>Scott</SURNAME>
+				<ADDRESS>First St.7</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>lucas.scott@onetreehill.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-1111</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="31" CD_ID="31">
+					<FROM_DATE>01/11/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="68" CD_ID="68">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="105" CD_ID="27">
+					<FROM_DATE>02/06/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="118" CD_ID="40">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="119" CD_ID="41">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="123" CD_ID="45">
+					<FROM_DATE>02/11/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="132" CD_ID="54">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="11">
+			<BASIC_INFO>
+				<NAME>Nathan</NAME>
+				<SURNAME>Scott</SURNAME>
+				<ADDRESS>First St.8</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>lucas.scott@onetreehill.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-2222</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="32" CD_ID="32">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="67" CD_ID="67">
+					<FROM_DATE>01/11/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="73" CD_ID="73">
+					<FROM_DATE>01/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="82" CD_ID="4">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="124" CD_ID="46">
+					<FROM_DATE>02/11/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/18/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="177" CD_ID="76">
+					<FROM_DATE>04/04/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/11/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="178" CD_ID="12">
+					<FROM_DATE>04/04/2020</FROM_DATE>
+					<RETURN_STATE>damaged</RETURN_STATE>
+					<RETURN_DATE>04/14/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="12">
+
+			<NAME>Peyton</NAME>
+			<SURNAME>Sawyer</SURNAME>
+			<ADDRESS>First St.7</ADDRESS>
+			<EMAIL>peyton_sawyer@onetreehill.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="20" CD_ID="20">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="63" CD_ID="63">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="83" CD_ID="5">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="98" CD_ID="20">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="110" CD_ID="32">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="160" CD_ID="34">
+					<FROM_DATE>03/01/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/08/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="167" CD_ID="39">
+					<FROM_DATE>03/16/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="169" CD_ID="3">
+					<FROM_DATE>04/01/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/13/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="13">
+			<BASIC_INFO>
+				<NAME>Julian</NAME>
+				<SURNAME>Baker</SURNAME>
+				<ADDRESS>First St.9</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>julian.baker@onetreehill.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-3333</PHONE_NUMBER>
+				<PHONE_NUMBER>756-3334</PHONE_NUMBER>
+				<PHONE_NUMBER>756-3335</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="101" CD_ID="23">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="146" CD_ID="68">
+					<FROM_DATE>02/16/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="186" CD_ID="24">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="195" CD_ID="36">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="200" CD_ID="41">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="14">
+			<BASIC_INFO>
+				<NAME>Eric</NAME>
+				<SURNAME>Taylor</SURNAME>
+				<ADDRESS>Eight St. 1</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>eric.taylor@fnl.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-1111</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="66" CD_ID="66">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="91" CD_ID="13">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/14/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="136" CD_ID="58">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="148" CD_ID="70">
+					<FROM_DATE>02/17/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="162" CD_ID="36">
+					<FROM_DATE>03/02/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/16/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="168" CD_ID="39">
+					<FROM_DATE>03/23/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/29/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="174" CD_ID="44">
+					<FROM_DATE>04/03/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/11/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="15">
+
+			<NAME>Julie</NAME>
+			<SURNAME>Taylor</SURNAME>
+			<ADDRESS>Eight St. 1</ADDRESS>
+			<EMAIL>julie.taylor@fnl.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="4" CD_ID="4">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="72" CD_ID="72">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="74" CD_ID="74">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="88" CD_ID="10">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/11/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="150" CD_ID="72">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="154" CD_ID="76">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="179" CD_ID="2">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="203" CD_ID="46">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="209" CD_ID="53">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="16">
+
+			<NAME>Jason</NAME>
+			<SURNAME>Street</SURNAME>
+			<ADDRESS>Eight St. 2</ADDRESS>
+			<EMAIL>jason-street@fnl.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="3" CD_ID="3">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="69" CD_ID="69">
+					<FROM_DATE>01/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="107" CD_ID="29">
+					<FROM_DATE>02/06/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/18/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="130" CD_ID="52">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/21/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="134" CD_ID="56">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="135" CD_ID="57">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="158" CD_ID="32">
+					<FROM_DATE>03/01/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/09/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="166" CD_ID="39">
+					<FROM_DATE>03/05/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/14/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="185" CD_ID="23">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="202" CD_ID="45">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="17">
+
+			<NAME>Matt</NAME>
+			<SURNAME>Saracen</SURNAME>
+
+			<EMAIL>matt_saracen@fnl.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="19" CD_ID="19">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="57" CD_ID="57">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="77" CD_ID="77">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="102" CD_ID="24">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="156" CD_ID="78">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/26/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="176" CD_ID="63">
+					<FROM_DATE>04/04/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/13/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="212" CD_ID="56">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="18">
+
+			<NAME>Tim</NAME>
+			<SURNAME>Riggins</SURNAME>
+			<ADDRESS>
+				<STREET>
+					Eight St
+				</STREET>
+				<NUMBER>3</NUMBER>
+			</ADDRESS>
+			<EMAIL>tim_riggins@fnl.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-2222</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="23" CD_ID="23">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="47" CD_ID="47">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="53" CD_ID="53">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="61" CD_ID="61">
+					<FROM_DATE>01/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/26/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="191" CD_ID="30">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="196" CD_ID="37">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="223" CD_ID="78">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="19">
+			<BASIC_INFO>
+				<NAME>James</NAME>
+				<MIDDLE_NAME>Morgan</MIDDLE_NAME>
+				<SURNAME>McGill</SURNAME>
+				<ADDRESS>Ninth St.1</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>james_mcgill@bcs.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-3333</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="11" CD_ID="11">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="84" CD_ID="6">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/18/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="116" CD_ID="38">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="131" CD_ID="53">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="165" CD_ID="38">
+					<FROM_DATE>03/03/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/13/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="182" CD_ID="9">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="215" CD_ID="59">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="20">
+			<BASIC_INFO>
+				<NAME>Kimberly</NAME>
+				<SURNAME>Wexler</SURNAME>
+				<ADDRESS>Ninth St.1</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>kim_wexler@bcs.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-4444</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="38" CD_ID="38">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="58" CD_ID="58">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="97" CD_ID="19">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="111" CD_ID="33">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="113" CD_ID="35">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="121" CD_ID="43">
+					<FROM_DATE>02/09/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="127" CD_ID="49">
+					<FROM_DATE>02/12/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="171" CD_ID="20">
+					<FROM_DATE>04/02/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/10/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="204" CD_ID="47">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="21">
+
+			<NAME>Ryan</NAME>
+			<SURNAME>Atwood</SURNAME>
+			<ADDRESS>Ninth St.2</ADDRESS>
+			<EMAIL>ryan_atwood@toc.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-5555</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="34" CD_ID="34">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="143" CD_ID="65">
+					<FROM_DATE>02/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="147" CD_ID="69">
+					<FROM_DATE>02/17/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/22/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="151" CD_ID="73">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="22">
+			<BASIC_INFO>
+				<NAME>Seth</NAME>
+				<SURNAME>Cohen</SURNAME>
+				<ADDRESS>Ninth St.2</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>seth_cohen@toc.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-6666</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="99" CD_ID="21">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="145" CD_ID="67">
+					<FROM_DATE>02/16/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="175" CD_ID="52">
+					<FROM_DATE>04/03/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/12/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="205" CD_ID="48">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="221" CD_ID="75">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="23">
+			<BASIC_INFO>
+				<NAME>Marissa</NAME>
+				<MIDDLE_NAME>Nicole</MIDDLE_NAME>
+				<SURNAME>Cooper</SURNAME>
+				<ADDRESS>Ninth St.3</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>marissa_cooper@toc.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="33" CD_ID="33">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="94" CD_ID="16">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/21/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="180" CD_ID="6">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="188" CD_ID="26">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="207" CD_ID="50">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="218" CD_ID="66">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="24">
+
+			<NAME>Summer</NAME>
+			<SURNAME>Roberts</SURNAME>
+			<ADDRESS>Ninth St.4</ADDRESS>
+			<EMAIL>summer_roberts@toc.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="1" CD_ID="1">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="8" CD_ID="8">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/28/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="14" CD_ID="14">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="54" CD_ID="54">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="60" CD_ID="60">
+					<FROM_DATE>01/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="104" CD_ID="26">
+					<FROM_DATE>02/05/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="115" CD_ID="37">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="144" CD_ID="66">
+					<FROM_DATE>02/15/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="25">
+
+			<NAME>Sandy</NAME>
+			<SURNAME>Cohen</SURNAME>
+			<ADDRESS>Ninth St. 2</ADDRESS>
+			<EMAIL>sandy_cohen@toc.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-7777</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="52" CD_ID="52">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="108" CD_ID="30">
+					<FROM_DATE>02/06/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="114" CD_ID="36">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="125" CD_ID="47">
+					<FROM_DATE>02/11/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="155" CD_ID="77">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="197" CD_ID="38">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="213" CD_ID="57">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="26">
+			<BASIC_INFO>
+				<NAME>Kirsten</NAME>
+				<MIDDLE_NAME>Trey</MIDDLE_NAME>
+				<SURNAME>Cohen</SURNAME>
+				<ADDRESS>Ninth St. 2</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>kirsten_cohen@toc.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>756-8888</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="126" CD_ID="48">
+					<FROM_DATE>02/12/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="27">
+			<BASIC_INFO>
+				<NAME>Jake</NAME>
+				<SURNAME>Peralta</SURNAME>
+				<ADDRESS>Tenth St.1</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>jake_peralta@bnn.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-1111</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="5" CD_ID="5">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="70" CD_ID="70">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="153" CD_ID="75">
+					<FROM_DATE>02/18/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/23/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="170" CD_ID="19">
+					<FROM_DATE>04/01/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/12/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="28">
+
+			<NAME>Rosa</NAME>
+			<SURNAME>Diaz</SURNAME>
+			<ADDRESS/>
+			<EMAIL>rosa_diaz@bnn.com</EMAIL>
+			<PHONES>
+
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="28" CD_ID="28">
+					<FROM_DATE>01/14/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="42" CD_ID="42">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="85" CD_ID="7">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="138" CD_ID="60">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="199" CD_ID="40">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="29">
+
+			<NAME>Amy</NAME>
+			<SURNAME>Santiago</SURNAME>
+			<ADDRESS>Tenth St.1</ADDRESS>
+			<EMAIL>amy_santiago@bnn.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-2222</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="12" CD_ID="12">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="79" CD_ID="1">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="198" CD_ID="39">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="208" CD_ID="51">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="222" CD_ID="77">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="30">
+			<BASIC_INFO>
+				<NAME>Charles</NAME>
+				<SURNAME>Boyke</SURNAME>
+				<ADDRESS>Tenth St.2</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>charles_boyle@bnn.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-3333</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="29" CD_ID="29">
+					<FROM_DATE>01/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="36" CD_ID="36">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="39" CD_ID="39">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="75" CD_ID="75">
+					<FROM_DATE>01/20/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/27/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="81" CD_ID="3">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="140" CD_ID="62">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="187" CD_ID="25">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="201" CD_ID="42">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="31">
+			<BASIC_INFO>
+				<NAME>Terry</NAME>
+				<MIDDLE_NAME>Holt</MIDDLE_NAME>
+				<SURNAME>Jeffords</SURNAME>
+				<ADDRESS>Tenth St.3</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>t.jeffords@bnn.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-4444</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="50" CD_ID="50">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="89" CD_ID="11">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/18/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="120" CD_ID="42">
+					<FROM_DATE>02/07/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/17/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="217" CD_ID="64">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="32">
+
+			<NAME>Daenerys</NAME>
+			<SURNAME>Targaryen</SURNAME>
+			<ADDRESS>
+				<STREET>
+					Eleventh St
+				</STREET>
+				<NUMBER>
+					1
+				</NUMBER>
+			</ADDRESS>
+			<EMAIL>daenerys-stormborn@targaryen.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-5555</PHONE_NUMBER>
+				<PHONE_NUMBER>757-6666</PHONE_NUMBER>
+				<PHONE_NUMBER>757-7777</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="10" CD_ID="10">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="35" CD_ID="35">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="48" CD_ID="48">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="76" CD_ID="76">
+					<FROM_DATE>01/19/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/25/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="90" CD_ID="12">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>functional</RETURN_STATE>
+					<RETURN_DATE>02/12/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="129" CD_ID="51">
+					<FROM_DATE>02/12/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/21/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="149" CD_ID="71">
+					<FROM_DATE>02/17/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/24/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="159" CD_ID="33">
+					<FROM_DATE>03/01/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/11/2020</RETURN_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="33">
+			<BASIC_INFO>
+				<NAME>Tyrion</NAME>
+				<SURNAME>Lannister</SURNAME>
+				<ADDRESS>Eleventh St.2</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>the_imp@lannister.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER>757-8888</PHONE_NUMBER>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="45" CD_ID="45">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="56" CD_ID="56">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="87" CD_ID="9">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="161" CD_ID="35">
+					<FROM_DATE>03/02/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>03/07/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="181" CD_ID="7">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+				<RENT RENT_ID="192" CD_ID="32">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+
+
+				</RENT>
+			</RENTS>
+		</CLIENT>
+		<CLIENT CLIENT_ID="34">
+			<BASIC_INFO>
+				<NAME>Jon</NAME>
+				<SURNAME>Arryn</SURNAME>
+				<ADDRESS>Up in the Clouds St. 2</ADDRESS>
+			</BASIC_INFO>
+
+
+
+			<EMAIL>jon-of-the-eyrie@arryn.com</EMAIL>
+			<PHONES>
+				<PHONE_NUMBER/>
+			</PHONES>
+			<RENTS>
+				<RENT RENT_ID="9" CD_ID="9">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/05/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="17" CD_ID="17">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="55" CD_ID="55">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="62" CD_ID="62">
+					<FROM_DATE>01/10/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>01/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="86" CD_ID="8">
+					<FROM_DATE>02/04/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/20/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="137" CD_ID="59">
+					<FROM_DATE>02/13/2020</FROM_DATE>
+					<RETURN_STATE>0</RETURN_STATE>
+					<RETURN_DATE>02/19/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="173" CD_ID="43">
+					<FROM_DATE>04/03/2020</FROM_DATE>
+					<RETURN_STATE>2</RETURN_STATE>
+					<RETURN_DATE>04/10/2020</RETURN_DATE>
+				</RENT>
+				<RENT RENT_ID="184" CD_ID="22">
+					<FROM_DATE>04/13/2020</FROM_DATE>
+				</RENT>
+			</RENTS>
+		</CLIENT>
+	</CLIENTS>
+
+</SYSTEM>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<!-- definition of simple types -->
+	<xs:simpleType name="year">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1900"/>
+			<xs:maxExclusive value="2100"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="priceType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\$\d+\.\d{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="occupiedType">
+		<xs:union>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="occupied"/>
+					<xs:enumeration value="free"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:integer">
+					<xs:maxInclusive value="1"/>
+					<xs:minInclusive value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="stateType">
+		<xs:union>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="functional"/>
+					<xs:enumeration value="slightly damaged"/>
+					<xs:enumeration value="damaged"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:integer">
+					<xs:maxInclusive value="2"/>
+					<xs:minInclusive value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="phoneType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="75\d-[1-9]{4}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="emailType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="adressSimpleType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="/^[a-zA-Z]+ St.\d{1,2}$/gm"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+
+
+	<!-- definition of simple elements -->
+	<xs:element name="name" type="xs:string"/>
+	<xs:element name="country" type="xs:string"/>
+	<xs:element name="price" type="priceType"/>
+	<xs:element name="releaseYear" type="year"/>
+	<xs:element name="yearStartedPerforming" type="year"/>
+	<xs:element name="yearOfBirth" type="year"/>
+	<xs:element name="netWorth" type="xs:decimal"/>
+	<xs:element name="yearFormed" type="year"/>
+	<xs:element name="numberOfMemebers" type="xs:integer"/>
+	<xs:element name="occupied" type="occupiedType"/>
+	<xs:element name="state" type="stateType"/>
+	<xs:element name="returnState" type="stateType"/>
+	<xs:element name="fromDate" type="xs:date"/>
+	<xs:element name="returnDate" type="xs:date"/>
+	<xs:element name="surname" type="xs:string"/>
+	<xs:element name="phone" type="phoneType"/>
+	<xs:element name="email" type="emailType"/>
+	<xs:element name="street" type="xs:string"/>
+	<xs:element name="number" type="xs:integer"/>
+	<xs:element name="genre" type="xs:string"/>
+
+
+	<!-- definition of complex types -->
+	<xs:complexType name="adressComplexType">
+		<xs:sequence>
+			<xs:element ref="street"/>
+			<xs:element ref="number"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- definition of groups -->
+	<xs:group name="client_info">
+		<xs:sequence>
+			<xs:element ref="name"/>
+			<xs:element ref="surname"/>
+			<xs:choice minOccurs="0">
+				<xs:element name="address" type="adressSimpleType"/>
+				<xs:element name="adress" type="adressComplexType"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:group>
+
+	<!-- definition of complex elements -->
+	<xs:element name="CD">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="occupied"/>
+				<xs:element ref="state"/>
+			</xs:sequence>
+			<xs:attribute name="CD_ID" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+
+
+	<xs:element name="album">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="name"/>
+				<xs:element ref="releaseYear"/>
+				<xs:element ref="price"/>
+				<xs:element name="CDs">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="CD" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="album_ID" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="albums">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="album" maxOccurs="unbounded" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="genres">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="genre" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="DJ">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="name"/>
+				<xs:element ref="country"/>
+				<xs:element ref="netWorth"/>
+				<xs:element ref="yearOfBirth" minOccurs="0"/>
+				<xs:element ref="yearStartedPerforming" minOccurs="0"/>
+				<xs:element ref="genres"/>
+				<xs:element ref="albums"/>
+			</xs:sequence>
+			<xs:attribute name="artist_ID" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Singer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="name"/>
+				<xs:element ref="country"/>
+				<xs:element ref="yearOfBirth" minOccurs="0"/>
+				<xs:element ref="yearStartedPerforming" minOccurs="0"/>
+				<xs:element ref="genres"/>
+				<xs:element ref="albums"/>
+			</xs:sequence>
+			<xs:attribute name="artist_ID" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Group">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="name"/>
+				<xs:element ref="country"/>
+				<xs:element ref="yearFormed" minOccurs="0"/>
+				<xs:element ref="numberOfMemebers"/>
+				<xs:element ref="genres"/>
+				<xs:element ref="albums"/>
+			</xs:sequence>
+			<xs:attribute name="artist_ID" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="artists">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="DJ" maxOccurs="unbounded"/>
+				<xs:element ref="Group" maxOccurs="unbounded"/>
+				<xs:element ref="Singer" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+	<xs:element name="rent">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="fromDate"/>
+				<xs:element ref="returnState" minOccurs="0"/>
+				<xs:element ref="returnDate" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="rent_ID" type="xs:ID"/>
+			<xs:attribute name="CD_ID" type="xs:IDREF" use="required"/>
+		</xs:complexType>
+	</xs:element>
+
+
+	<xs:element name="client">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:choice>
+					<xs:element name="basicInfo">
+						<xs:complexType>
+							<xs:group ref="client_info"/>
+						</xs:complexType>
+					</xs:element>
+					<xs:group ref="client_info"/>
+				</xs:choice>
+				<xs:element ref="email"/>
+				<xs:element name="phones">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="phone" minOccurs="0" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="rents">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="rent" minOccurs="0" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="client_ID" type="xs:ID"/>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="clients">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="client" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="system">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="artists" maxOccurs="unbounded"/>
+				<xs:element ref="clients" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+</xs:schema>
